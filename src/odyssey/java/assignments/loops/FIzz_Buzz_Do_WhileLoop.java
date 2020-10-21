@@ -1,4 +1,4 @@
-package homework.java.shamim.Loop;
+package src.odyssey.java.assignments.loops;
 
 public class FIzz_Buzz_Do_WhileLoop {
     public static void main(String[] args) {

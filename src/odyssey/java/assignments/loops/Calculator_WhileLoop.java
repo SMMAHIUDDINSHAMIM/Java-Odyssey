@@ -1,4 +1,4 @@
-package homework.java.shamim.Loop;
+package src.odyssey.java.assignments.loops;
 
 import java.util.Scanner;
 

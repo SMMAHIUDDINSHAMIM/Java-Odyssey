@@ -1,4 +1,4 @@
-package homework.java.shamim.Loop;
+package src.odyssey.java.assignments.loops;
 import java.util.Scanner;
 public class For_Loop {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package homework.java.shamim.Loop;
+package src.odyssey.java.assignments.loops;
 
 public class Fizz_Buzz_ForLoop {
     public static void main(String[] args) {

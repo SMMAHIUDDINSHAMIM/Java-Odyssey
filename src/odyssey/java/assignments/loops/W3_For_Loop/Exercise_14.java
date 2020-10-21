@@ -1,4 +1,4 @@
-package homework.java.shamim.Loop.W3_While_Loop;
+package src.odyssey.java.assignments.loops.W3_For_Loop;
 import java.util.Scanner;
 public class Exercise_14 {
     public static void main(String[] args) {
